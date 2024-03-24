@@ -1,0 +1,77 @@
+.footnote-1 {
+  font-size: 12px;
+  line-height: 1.3333733333;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons",
+    "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.footer__list * {
+  font-size: 12px;
+  line-height: 1.3333733333;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons",
+    "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  color: rgba(0, 0, 0, 0.56);
+}
+.footer__list {
+  padding-bottom: 11px;
+}
+.line {
+  height: 1px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.56);
+  opacity: 0.5;
+  margin-bottom: 11px;
+}
+.title {
+  font-size: 12px;
+  line-height: 1.3333733333;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons",
+    "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  color: rgb(0, 0, 0, 0.68);
+  margin-bottom: 10px;
+}
+.list {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+.link {
+  color: rgba(0, 0, 0, 0.72);
+  font-size: 12px;
+  line-height: 1.3333733333;
+  font-weight: 400;
+  font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons",
+    "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  color: rgb(0, 0, 0, 0.8);
+}
+.columns {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+.f__text a {
+  text-decoration: underline;
+  margin-right: 1px;
+}
+.f__text {
+  padding-bottom: 19px;
+}
+.ac-gf-footer-legal {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-bottom: 20px;
+}
+.ac-gf-footer-legal-links {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: rgb(0, 0, 0, 0.8) !important;
+}

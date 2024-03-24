@@ -1,0 +1,27 @@
+.nav {
+  padding: 10px 0px;
+  background-color: #000;
+}
+.nav__info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav__list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+.nav__icon {
+  color: rgba(255, 255, 255, 0.8);
+}
+.nav__link {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial,
+    sans-serif;
+  line-height: 1;
+}
