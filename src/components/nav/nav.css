@@ -25,3 +25,7 @@
     sans-serif;
   line-height: 1;
 }
+.nav__link.active {
+  color: #fff;
+  text-decoration: underline;
+}

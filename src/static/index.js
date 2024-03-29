@@ -4,6 +4,15 @@ import prImg3 from "../assets/images/products-bg-3.jpg";
 import prImg4 from "../assets/images/products-bg-4.jpg";
 import prImg5 from "../assets/images/products-bg-5.jpg";
 import prImg6 from "../assets/images/products-bg-6.jpg";
+import strImg1 from "../assets/images/store-1.png";
+import strImg2 from "../assets/images/store-2.png";
+import strImg3 from "../assets/images/store-3.png";
+import strImg4 from "../assets/images/store-4.png";
+import strImg5 from "../assets/images/store-5.png";
+import strImg6 from "../assets/images/store-6.png";
+import strImg7 from "../assets/images/store-7.png";
+import strImg8 from "../assets/images/store-8.png";
+import strImg9 from "../assets/images/store-9.png";
 
 export const LINKS = [
   "Store",
@@ -60,5 +69,53 @@ export const PRODUCTS = [
     text: "Get $180-$630 in credit when you trade in iPhone 11 or higher.",
     img: prImg6,
     color: "#000",
+  },
+];
+
+export const STORE = [
+  {
+    id: 1,
+    img: strImg1,
+    title: "Mac",
+  },
+  {
+    id: 2,
+    img: strImg2,
+    title: "iPhone",
+  },
+  {
+    id: 3,
+    img: strImg3,
+    title: "iPad",
+  },
+  {
+    id: 4,
+    img: strImg4,
+    title: "Apple Watch",
+  },
+  {
+    id: 5,
+    img: strImg5,
+    title: "Apple Vision Pro",
+  },
+  {
+    id: 6,
+    img: strImg6,
+    title: "AirPods",
+  },
+  {
+    id: 7,
+    img: strImg7,
+    title: "AirTag",
+  },
+  {
+    id: 8,
+    img: strImg8,
+    title: "Apple TV 4K",
+  },
+  {
+    id: 9,
+    img: strImg9,
+    title: "HomePod",
   },
 ];
